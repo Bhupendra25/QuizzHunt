@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuizzHunt/static/css/main.91cf96a3.css",
+    "main.js": "/QuizzHunt/static/js/main.af5232f5.js",
+    "index.html": "/QuizzHunt/index.html",
+    "main.91cf96a3.css.map": "/QuizzHunt/static/css/main.91cf96a3.css.map",
+    "main.af5232f5.js.map": "/QuizzHunt/static/js/main.af5232f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91cf96a3.css",
+    "static/js/main.af5232f5.js"
+  ]
+}
